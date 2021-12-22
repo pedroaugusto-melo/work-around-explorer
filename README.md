@@ -10,7 +10,7 @@ A interactive website that shows salary information related to roles in Tech Ind
 
 ## General info
 
-The site, based on the options of role and company selected by the user, display some salary data about that role, that company a the Tech Industry. The data is stored in a separated JS file.
+The site, based on the options of role and company selected by the user, displays some salary data about that role, that company and the Tech Industry. The data is stored in a separated JS file.
 
 ## Objective
 
