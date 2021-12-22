@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #061e31;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 1.25rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 3rem;
+}
+
+main {
+    margin-top: 30vmin;
+    padding: 2%;
+    width: 100%;
+    display: grid;
+    grid-template: 1fr / 2fr 2fr 3fr;
+}
+
+section {
+    border: 1px solid white;
+    padding: 2rem 1.5rem;
+}
+
+p {
+    margin-top: 1rem;
+}
